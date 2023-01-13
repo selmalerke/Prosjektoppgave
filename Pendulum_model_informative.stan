@@ -110,7 +110,7 @@ parameters {
   real<lower=0.001> l;
   real<lower=0.001> sigma;
   // real<lower=0> mu_wk2;
-  real<lower=0, upper= 0.04> sigma_theta;
+  real<lower=0, upper= 0.06> sigma_theta;
   //real<lower=0> sigma_E;
   // physical parameters
   real<lower=0> R;
